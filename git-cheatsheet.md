@@ -28,3 +28,28 @@
   cd Javascript
   Touch Test_Javascript.md
   cd ..
+  - git init
+    git init
+  - modify setzen
+    git add .
+  - commit setzen
+    git commit -m "Beispiel"
+  - neues Repository in github erstellen
+  - code copieren und in Terminal ausführen
+    Bsp: git remote add origin https://github.com/daroste/session-notebook.git
+    git branch -M main
+    git push -u origin main
+  - Projekt hochladen
+  - git push
+
+## Restore
+
+-shell command
+git restore .
+
+# stellt ursprunglichen Stand vom letzten Commit wieder her
+
+## Status git Repo
+
+-shell command
+git status
