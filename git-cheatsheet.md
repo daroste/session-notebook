@@ -53,3 +53,11 @@ git restore .
 
 -shell command
 git status
+
+## Branch erstellen
+
+Terminal Command
+
+- git branch name des Branch
+  wechsel zu Branch
+- git switch name des Branch
