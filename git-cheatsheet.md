@@ -59,5 +59,5 @@ git status
 Terminal Command
 
 - git branch name des Branch
-  wechsel zu Brunch
+  wechsel zu Branch
 - git switch name des Branch
